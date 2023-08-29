@@ -1,0 +1,88 @@
+{
+    "usuarios": [
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3401",
+            "nome": "João Silva",
+            "email": "joao.silva@example.com",
+            "senha": "senha123"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3402",
+            "nome": "Maria Souza",
+            "email": "maria.souza@example.com",
+            "senha": "senha456"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3403",
+            "nome": "Pedro Santos",
+            "email": "pedro.santos@example.com",
+            "senha": "senha789"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3404",
+            "nome": "Ana Oliveira",
+            "email": "ana.oliveira@example.com",
+            "senha": "senhaabc"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3406",
+            "nome": "Laura Fernandes",
+            "email": "laura.fernandes@example.com",
+            "senha": "senha5678"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3407",
+            "nome": "Ricardo Costa",
+            "email": "ricardo.costa@example.com",
+            "senha": "senha91011"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3408",
+            "nome": "Mariana Rodrigues",
+            "email": "mariana.rodrigues@example.com",
+            "senha": "senha121314"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3409",
+            "nome": "José Almeida",
+            "email": "jose.almeida@example.com",
+            "senha": "senha151617"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3410",
+            "nome": "Fernanda Pereira",
+            "email": "fernanda.pereira@example.com",
+            "senha": "senha181920"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3411",
+            "nome": "Gabriel Carvalho",
+            "email": "gabriel.carvalho@example.com",
+            "senha": "senha212223"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3412",
+            "nome": "Amanda Gomes",
+            "email": "amanda.gomes@example.com",
+            "senha": "senha242526"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3413",
+            "nome": "Paulo Santos",
+            "email": "paulo.santos@example.com",
+            "senha": "senha272829"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3405",
+            "nome": "Carlos Lima Test Modify",
+            "email": "carlos.lima@exampleModify.com",
+            "senha": "senha1234"
+        },
+        {
+            "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3414",
+            "nome": "Ryan SP",
+            "email": "SP.RYAN@gmail.com",
+            "senha": "$2a$10$BLLF1VdLsglpZP6i655.U.PxbFNtC8VC8wMyICYTKoO3qLcGjd..i"
+        }
+    ]
+}
